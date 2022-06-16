@@ -24,7 +24,8 @@ class ViewController: UIViewController {
         let state = "TN"
         print(state)
         
-        
+        let country = "India"
+        print(country)
     }
 
 }
