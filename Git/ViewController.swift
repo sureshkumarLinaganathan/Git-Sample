@@ -17,6 +17,14 @@ class ViewController: UIViewController {
         print(name)
         let age = 27
         print(age)
+        
+        let dob = "5-4-1994"
+        print(dob)
+        
+        let state = "TN"
+        print(state)
+        
+        
     }
 
 }
