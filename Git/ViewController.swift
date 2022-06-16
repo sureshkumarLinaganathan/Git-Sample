@@ -26,6 +26,9 @@ class ViewController: UIViewController {
         
         let country = "India"
         print(country)
+        
+        let gender = "Male"
+        print(gender)
     }
 
 }
